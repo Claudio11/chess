@@ -1,0 +1,7 @@
+:host {
+  flex-grow: 1;
+}
+
+.square-container {
+  border: solid 1px grey;
+}
